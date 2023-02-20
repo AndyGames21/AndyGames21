@@ -14,3 +14,6 @@ Im A Youtuber and Im into ***Web Development***, ***App Development***, ***Serve
 >* [Twitter](https://twitter.com/AndyGames21)
 
 >* [Discord](https://discord.gg/qdwybRgj4D)
+
+
+>* **I am Dumb for getting the quickdraw badge**
