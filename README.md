@@ -16,4 +16,3 @@ Im A Youtuber and Im into ***Web Development***, ***App Development***, ***Serve
 >* [Discord](https://discord.gg/qdwybRgj4D)
 
 
->* **I am Dumb for getting the quickdraw badge**
