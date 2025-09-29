@@ -5,8 +5,8 @@
 ## 🧰 About Me
 
 - I’m a **YouTuber & Coder** focusing on:
- - Web Development  
- - App Development  
+  - Web Development  
+  - App Development  
 - I love gaming, building things, and learning new technologies.
 - Always exploring new ideas and side projects.
 
